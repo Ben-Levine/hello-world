@@ -1,2 +1,2 @@
 # hello-world
-This is an introductory excercise
+This is an introduction
